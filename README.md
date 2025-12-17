@@ -20,4 +20,5 @@ The flat file structure defined above is fine, but to run a given Go file, we ne
 
 ## Content
 
+- **2025-12-17:** [Logistic Regression in Julia](code/julia/2025_12_17_logistic_regression.jl)
 - **2025-12-16:** [Fibonacci sequence in Go](code/go/2025_12_16_fibonacci.go).
