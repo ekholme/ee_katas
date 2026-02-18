@@ -24,3 +24,5 @@ bootstrap_percentiles <- function(x, reps = 100, p = c(0.025, 0.5, 0.975)) {
         mean
     )
 }
+
+res <- bootstrap_percentiles(x)
