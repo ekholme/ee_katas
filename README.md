@@ -20,6 +20,8 @@ The flat file structure defined above is fine, but to run a given Go file, we ne
 
 ## Content
 
+- **2026-02-18:** [Estimating Bootstrapped Percentiles in R](code/R/2026_02_18_bootstrap_percentiles.R)
+- **2026-01-14**: [For Loops in Go](code/go/2026_01_14_forloop.go)
+- **2026-01-08:** [Luhn Algorithm in R](code/R/2026_01_08_luhn_algorithm.R)
 - **2025-12-17:** [Logistic Regression in Julia](code/julia/2025_12_17_logistic_regression.jl)
 - **2025-12-16:** [Fibonacci sequence in Go](code/go/2025_12_16_fibonacci.go).
-- **2026-01-08:** [Luhn Algorithm in R](code/R/2026_01_08_luhn_algorithm.R)
